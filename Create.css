@@ -1,0 +1,69 @@
+body{
+
+    background-color: #fec7d7;
+    font-family: Tahoma, Verdana, sans-serif;
+    color: #3C3D37;
+    
+}
+
+.CreateForm{
+
+    width: 500px;
+    height: 650px;
+    background-color: #D69ADE;
+    margin: 170px 0px 0px 710px;
+    border-radius: 8%;
+    box-shadow: 5px  5px 5px 2px #D69ADE, -5px -5px 5px 2px #D69ADE;
+    
+}
+
+.front{
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin: 70px 0 0 142px;
+    
+}
+
+.box{
+
+    position: relative;
+    left: 25px;
+    width: 443px;
+    height: 43px;
+    background-color: #f9f8fc;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 20px;
+    
+}
+
+
+p{
+
+    margin-left: 25px;
+    font-weight: 800;
+    
+}
+
+.submit{
+
+    width: 452px;
+    height: 46px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+    font-size: 15px;
+    font-weight: 800;
+    transition: all 0.7s ease-in-out;
+
+    
+}
+
+.submit:hover{
+
+    background-color:  #fec7d7;
+    cursor: pointer;
+
+}

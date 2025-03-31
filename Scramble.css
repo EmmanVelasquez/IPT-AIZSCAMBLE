@@ -1,0 +1,201 @@
+body{
+    
+    margin: 0;
+    background-color: #fec7d7;
+    font-family: Tahoma, Verdana, sans-serif;
+    color: #3C3D37;
+
+}
+
+nav{
+
+    background-color: #D69ADE;
+    width: 100%;
+    height: 135px;
+    position: fixed;
+    top: 0;
+
+}
+
+.logo{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+    left: 845px;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: #3C3D37;
+
+}
+
+.links-container{
+
+    text-decoration: none;
+    color: #3C3D37;
+    margin-top: -150px;
+    font-weight: bold;
+    
+}
+
+.link{
+
+    margin-left: 120px;
+    font-size: 21px;
+    
+
+}
+
+.l1{
+
+    margin-left: 1000px;
+
+}
+
+.l2{
+
+    margin-left: 20px;
+    
+}
+
+a{
+
+    text-decoration: none;
+    color: #3C3D37;
+
+}
+
+a:hover{
+
+    color: #fec7d7;
+    text-shadow: 0 0 10px #fec7d7,;
+
+}
+
+.product1{
+
+    margin-top: 240px;
+    height: 710px;
+    width: 700px;
+    background-color: #f8b3c7;
+    margin-left: 605px;
+    border-radius: 15%;
+    
+
+}
+
+.pic1{
+
+    margin: 10px 0 0 225px;
+    border-radius: 15%;
+    
+
+}
+
+.name{
+
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+
+}
+
+.name1{
+
+    margin-top: -20px;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+.label-for-size{
+
+    margin-left: 165px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.sel{
+    
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    background-color: #D69ADE;
+    cursor: pointer;
+
+}
+.sel:hover{
+
+    cursor: pointer;
+
+}
+
+
+option:hover{
+
+    background-color: #D69ADE;
+
+}
+
+.sub-btn:hover{
+
+    background-color: #fec7d7;
+
+}
+
+textarea{
+
+    text-align: center;
+    background-color: #D69ADE;
+    margin: 25px 0 0 170px;
+    width: 350px;
+    height: 80px;
+    
+}
+
+.sub-btn{
+
+    margin: 20px 0 0 240px;
+    background-color: #D69ADE;
+    width: 220px;
+    height: 40px;
+    cursor: pointer;
+
+}
+
+.quant{
+
+    margin-left: 160px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    left: 5px;
+
+}
+
+.quantity1{
+
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    background-color: #D69ADE;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: 20px;
+
+
+
+}
+

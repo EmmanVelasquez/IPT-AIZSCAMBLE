@@ -1,0 +1,129 @@
+body{
+    
+    margin: 0;
+    background-color: #fec7d7;
+    font-family: Tahoma, Verdana, sans-serif;
+    color: #3C3D37;
+
+}
+
+nav{
+
+    background-color: #D69ADE;
+    width: 100%;
+    height: 135px;
+    position: fixed;
+    top: 0;
+
+}
+
+.logo{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+    left: 845px;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: #3C3D37;
+
+}
+
+.links-container{
+
+    text-decoration: none;
+    color: #3C3D37;
+    margin-top: -150px;
+    font-weight: bold;
+    
+}
+
+.link{
+
+    margin-left: 120px;
+    font-size: 21px;
+    
+
+}
+
+.l1{
+
+    margin-left: 1000px;
+
+}
+
+.l2{
+
+    margin-left: 20px;
+    
+}
+
+main{
+
+    margin-top: 250px;
+
+}
+
+.t1{
+
+    
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    
+}
+
+.t2{
+
+   
+    text-align: center;
+    font-size: 60px;
+    margin-top: -20px;
+    font-weight: bold;
+    
+    
+}
+
+table{
+
+    width: 1800px;
+    text-align: center;
+    margin-left: 63px;
+    position: relative;
+    top: -1px;
+
+}
+
+th{
+
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.pics{
+
+    margin-top: 20px;
+    transition: all 0.7s ease-in-out;
+
+}
+
+.pics:hover{
+
+    transform:scale(1.2)translateY(-1px);
+
+}
+
+a:hover{
+
+    color: #fec7d7;
+    text-shadow: 0 0 10px #fec7d7,;
+
+}
+
